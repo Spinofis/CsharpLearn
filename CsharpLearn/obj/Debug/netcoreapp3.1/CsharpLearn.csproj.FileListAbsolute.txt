@@ -1,0 +1,11 @@
+C:\Repo prywatne\CsharpLearn\CsharpLearn\bin\Debug\netcoreapp3.1\CsharpLearn.exe
+C:\Repo prywatne\CsharpLearn\CsharpLearn\bin\Debug\netcoreapp3.1\CsharpLearn.deps.json
+C:\Repo prywatne\CsharpLearn\CsharpLearn\bin\Debug\netcoreapp3.1\CsharpLearn.runtimeconfig.json
+C:\Repo prywatne\CsharpLearn\CsharpLearn\bin\Debug\netcoreapp3.1\CsharpLearn.runtimeconfig.dev.json
+C:\Repo prywatne\CsharpLearn\CsharpLearn\bin\Debug\netcoreapp3.1\CsharpLearn.dll
+C:\Repo prywatne\CsharpLearn\CsharpLearn\bin\Debug\netcoreapp3.1\CsharpLearn.pdb
+C:\Repo prywatne\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.csprojAssemblyReference.cache
+C:\Repo prywatne\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.AssemblyInfoInputs.cache
+C:\Repo prywatne\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.AssemblyInfo.cs
+C:\Repo prywatne\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.dll
+C:\Repo prywatne\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.pdb
