@@ -6,8 +6,12 @@ namespace CsharpLearn
     {
         static void Main(string[] args)
         {
-            Delegates delegates = new Delegates();
-            delegates.CallTestActionParametrless();
-        }
+	    MyDelegates delegates = new MyDelegates();
+            delegates.CallMyWhere();
+	    //string s = "Hello world";
+	    //EventHandler<string> handler = (sender, args) => { };
+	    //delegates.helloWorldEvent = handler;
+	    //handler.Invoke(new object(), "");
+	}
     }
 }
