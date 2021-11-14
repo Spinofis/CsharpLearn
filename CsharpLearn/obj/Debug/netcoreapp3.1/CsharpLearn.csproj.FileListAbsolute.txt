@@ -18,7 +18,6 @@ C:\Nauka\CsharpLearn\CsharpLearn\bin\Debug\netcoreapp3.1\CsharpLearn.pdb
 C:\Nauka\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.csprojAssemblyReference.cache
 C:\Nauka\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.AssemblyInfoInputs.cache
 C:\Nauka\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.AssemblyInfo.cs
-C:\Nauka\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.csproj.CoreCompileInputs.cache
 C:\Nauka\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.dll
 C:\Nauka\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.pdb
 C:\Nauka\CsharpLearn\CsharpLearn\obj\Debug\netcoreapp3.1\CsharpLearn.genruntimeconfig.cache

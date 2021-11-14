@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "DevExpress.Xpo": {
+              "target": "Package",
+              "version": "[19.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
